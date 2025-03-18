@@ -1,2 +1,1 @@
-# React-js
-# React-js
+Create a react project
